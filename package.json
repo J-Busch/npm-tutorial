@@ -1,6 +1,6 @@
 {
   "name": "npmtut",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Learning how to use npm.",
   "main": "index.js",
   "scripts": {
